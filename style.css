@@ -1,0 +1,290 @@
+body {
+    overflow-x: hidden;
+}
+#wiki {
+    position: absolute;
+    top: 32%;
+    left: 44%;
+}
+#ped {
+    position: absolute;
+    top: 5%;
+    left: 45%;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
+}
+#dia {
+    position: absolute;
+    top: 12%;
+    left: 46%;
+    font-size: 15px;
+}
+.ref {
+    color: blue;
+}
+#eng {
+    position: absolute;
+    top: 19%;
+    left: 37%;
+    font-weight: bolder;
+}
+#lish {
+    position: absolute;
+    top: 25%;
+    left: 34%;
+    color: black;
+}
+#kor {
+    position: absolute;
+    top: 30%;
+    left: 32%;
+    font-weight: bolder;
+}
+#rea {
+    position: absolute;
+    top: 36%;
+    left: 30%;
+    color: black;
+}
+#fran {
+    position: absolute;
+    top: 40%;
+    left: 31%;
+    font-weight: bolder;
+}
+#nce {
+    position: absolute;
+    top: 46%;
+    left: 28%;
+    color: black;
+}
+
+#ital {
+    position: absolute;
+    top: 50%;
+    left: 32%;
+    font-weight: bolder;
+}
+#liano {
+    position: absolute;
+    top: 56%;
+    left: 30%;
+    color: black;
+}
+#isl {
+    position: absolute;
+    top: 60%;
+    left: 38%;
+    font-weight: bolder;
+}
+#lamic {
+    position: absolute;
+    top: 66%;
+    left: 36%;
+    color: black;
+}
+#pyc {
+    position: absolute;
+    top: 19%;
+    left: 60%;
+    font-weight: bolder;
+}
+#saca {
+    position: absolute;
+    top: 25%;
+    left: 58%;
+    color: black;
+} 
+#deu {
+    position: absolute;
+    top: 30%;
+    left: 65%;
+    font-weight: bolder;
+}
+#sch {
+    position: absolute;
+    top: 36%;
+    left: 63%;
+    color: black;
+}
+#esp {
+    position: absolute;
+    top: 40%;
+    left: 66%;
+    color: blue;
+    font-weight: bolder;
+}
+#panol {
+    position: absolute;
+    top: 47%;
+    left: 63%;
+    color: black;
+}  
+#jap {
+    position: absolute;
+    top: 51%;
+    left: 66%;
+    font-weight: bolder;
+}
+#pan {
+    position: absolute;
+    top: 57%;
+    left: 61%;
+    color: black;
+} 
+#pol {
+    position: absolute;
+    top: 61%;
+    left: 60%;
+    font-weight: bolder;
+}
+#ski {
+    position: absolute;
+    top: 67%;
+    left: 57%;
+    color: black;
+} 
+#input {
+    position: absolute;
+    top: 72.8%;
+    width: 490px;
+    height: 40px;
+    left: 400px;
+    border: 1px solid black;
+}
+#sect {
+    position: absolute;
+    top: 74%;
+    width: 60px;
+    height: 20px;
+    left: 780px;  
+    border: 2px solid white;
+}
+#sect:hover {
+    cursor: pointer;
+}
+#item {
+    position: absolute;
+    top: 72.7%;
+    width: 60px;
+    height: 45px;
+    left: 840px;
+}
+#item:hover {
+    cursor: pointer;
+}
+.mix {
+    position: absolute;
+    top: 85%;
+    width: 350px;
+    height: 30px;
+    left: 470px;
+    border: 1px solid black;
+}
+#mix:hover {
+    cursor: pointer;
+}
+.spanner {
+    position: absolute;
+    top: 86%;
+    left: 42%;
+    color: blue;
+    font-weight: bold;
+}
+.spanner:hover {
+    cursor: pointer;
+}
+.soft {
+    position: absolute;
+    top: 86%;
+    width: 40px;
+    height: 20px;
+    left: 38%;
+    color: rgb(33, 33, 104);
+}
+.soft:hover {
+    cursor: pointer;
+}
+.memory {
+    position: absolute;
+    top: 86%;
+    left: 63%;
+    background-color: white;
+    color: blue;
+}
+.memory:hover {
+    cursor: pointer;
+}
+.aza {
+    position: absolute;
+    top: 90%;
+}
+.amazon {
+    position: absolute;
+    top: 83%;
+    left: 31.5%;
+}
+
+.commit {
+    position: absolute;
+    top: 83%;
+    left: 66%;
+}
+
+#container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    margin-top: 30%;
+    padding-top: 650px;
+    padding-left: 350px;
+    margin: 100px;
+    column-gap: 0px;
+    row-gap: 10px;
+}
+.wiki {
+    padding-left: 60px;
+}
+
+#one, #two, #three, #four, #five, #six, #seven, #eight, #nine, #ten, #more, #text {
+    float: left;
+}
+a {
+    text-decoration: none;
+}
+.hall {
+    position: absolute;
+    top: 108%;
+    left: 7%;
+}
+.linux {
+    position: absolute;
+    top: 2%;
+    left: -20%;
+}
+#iconic {
+    border: 0px solid thick white;
+    background-color: white;
+    width: 28%;
+    position: absolute;
+    height: 27vh;
+    top: 128%;
+    left: 3%;
+    background-color: rgb(213, 225, 230);
+}
+
+.icon {
+    position: absolute;
+    top: 9%;
+    left: 1%;
+}
+.android {
+    position: absolute;
+    left: 15%;
+}
+.age {
+    color: black;
+}
+
+
+
