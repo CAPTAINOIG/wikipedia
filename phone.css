@@ -1,0 +1,253 @@
+@media screen and (max-width:700px) {
+    #wiki {
+        position: relative;
+        top: 155px;
+        left: 18%;
+        
+        
+    }
+    #ped {
+        position: absolute;
+        top: -2%;
+        left: 30%;
+        font-size: 30px;
+        
+        
+    }
+    #dia {
+        position: absolute;
+        top: 5%;
+        left: 32%;
+        font-size: 15px;
+    }
+    .ref {
+        color: blue;
+    }
+    #eng {
+        position: absolute;
+        top: 11%;
+        left: 19%;
+        font-weight: bolder;
+       
+    }
+    #lish {
+        position: absolute;
+        top: 17%;
+        left: 9%;
+      
+    }
+    #kor {
+        position: absolute;
+        top: 24%;
+        left: 5%;
+        font-weight: bolder;
+    
+    }
+    #rea {
+        position: absolute;
+        top: 30%;
+        left: 3%;
+        color: black;
+    }
+    #fran {
+        position: absolute;
+        top: 38%;
+        left: 5%;
+        font-weight: bolder;
+      
+    }
+    #nce {
+        position: absolute;
+        top: 44%;
+        left: 0%;
+        color: black;
+    }
+    
+    #ital {
+        position: absolute;
+        top: 50%;
+        left: 15%;
+        font-weight: bolder;
+    }
+    #liano {
+        position: absolute;
+        top: 56%;
+        left: 10%;
+        color: black;
+    }
+    #isl {
+        position: absolute;
+        top: 60%;
+        left: 28%;
+        font-weight: bolder;
+    }
+    #lamic {
+        position: absolute;
+        top: 66%;
+        left: 24%;
+        color: black;
+    }
+    #pyc {
+        position: absolute;
+        top: 11%;
+        left: 60%;
+        font-weight: bolder;
+      
+    }
+    #saca {
+        position: absolute;
+        top: 17%;
+        left: 52%;
+        color: black;
+    } 
+    #deu {
+        position: absolute;
+        top: 24%;
+        left: 66%;
+        font-weight: bolder;
+    }
+    #sch {
+        position: absolute;
+        top: 30%;
+        left: 59%;
+        color: black;
+    }
+    #esp {
+        position: absolute;
+        top: 38%;
+        left: 75%;
+        color: blue;
+        font-weight: bolder;
+    }
+    #panol {
+        position: absolute;
+        top: 43%;
+        left: 57%;
+        color: black;
+    }  
+    #jap {
+        position: absolute;
+        top: 51%;
+        left: 60%;
+        font-weight: bolder;
+    }
+    #pan {
+        position: absolute;
+        top: 57%;
+        left: 50%;
+        color: black;
+    } 
+    #pol {
+        position: absolute;
+        top: 61%;
+        left: 57%;
+        font-weight: bolder;
+    }
+    #ski {
+        position: absolute;
+        top: 67%;
+        left: 50%;
+        color: black;
+    }  
+    #input {
+        position: absolute;
+        top: 72.8%;
+        width: 300px;
+        height: 40px;
+        left: 20px;
+     
+    }
+    #item {
+        position: absolute;
+        top: 72.7%;
+        width: 60px;
+        height: 45px;
+        left: 290px;
+       
+    }
+    #sect {
+        position: absolute;
+        top: 73%;
+        width: 60px;
+        height: 20px;
+        left: 230px;  
+        border: 2px solid white;
+   
+    }
+    .mix {
+        position: absolute;
+        top: 85%;
+        width: 340px;
+        height: 30px;
+        left: 10px;
+        border: 1px solid black;
+        
+    }
+    .spanner {
+        position: absolute;
+        top: 86%;
+        left: 18%;
+        color: blue;
+        font-weight: bold;
+    }
+    .soft {
+        position: absolute;
+        top: 86%;
+        width: 40px;
+        height: 20px;
+        left: 5%;
+        color: rgb(33, 33, 104);
+       
+    }
+    .amazon {
+        position: absolute;
+        top: 83%;
+        left: 0%;
+        display: none;
+    }
+    
+    .commit {
+        position: absolute;
+        top: 83%;
+        left: 62%;
+        display: none;
+    }
+    .memory {
+        position: absolute;
+        top: 86%;
+        left: 80%;
+        background-color: white;
+        color: blue;
+    }
+    .aza {
+        position: absolute;
+        top: 90%;
+        display: none;
+    }
+    #container {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        margin-top: 0%;
+        padding-top: 500px;
+        padding-left: 50px;
+        margin-left: 10px;
+        column-gap: 0px;
+        row-gap: 10px;
+    }
+    .hall {
+        position: absolute;
+        top: 220%;
+        left: 7%;
+    }#iconic {
+        border: 0px solid thick white;
+        background-color: white;
+        width: 28%;
+        position: absolute;
+        height: 27vh;
+        top: 240%;
+        left: 3%;
+        background-color: rgb(213, 225, 230);
+    }
+    
+}

@@ -208,7 +208,7 @@ body {
 .memory {
     position: absolute;
     top: 86%;
-    left: 63%;
+    left: 60%;
     background-color: white;
     color: blue;
 }
@@ -222,13 +222,13 @@ body {
 .amazon {
     position: absolute;
     top: 83%;
-    left: 31.5%;
+    left: 28%;
 }
 
 .commit {
     position: absolute;
     top: 83%;
-    left: 66%;
+    left: 62%;
 }
 
 #container {
@@ -270,7 +270,7 @@ a {
     height: 27vh;
     top: 128%;
     left: 3%;
-    background-color: rgb(213, 225, 230);
+    background-color: #F8F9FA;
 }
 
 .icon {
